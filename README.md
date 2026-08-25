@@ -57,6 +57,14 @@ Thanks to tools like Claude Code and Cursor, your team ships code non-stop. But 
 
 Shannon closes that gap by providing on-demand, automated penetration testing that can run against every build or release.
 
+### Why is it called Shannon?
+
+Claude Shannon founded information theory in 1948, and a year later gave cryptography its first rigorous mathematical footing in "Communication Theory of Secrecy Systems." He is the reason information can be measured at all, and the reason security became something you could prove rather than assert.
+
+One of his ideas sits directly underneath this project. Shannon's maxim says to design a system on the assumption that your adversary already knows exactly how it works. Security has to live in the secret, never in the obscurity of the mechanism. That is the argument for open-source security tooling, made decades before anyone published a repository, and it is why the agent that attacks your application is one you can read line by line.
+
+He also built Theseus, a mechanical mouse that taught itself the path through a maze in 1950 and is now cited as one of the first demonstrations of machine learning. And he kept a box on his desk whose only function was to reach out, switch itself off, and retract. Rigorous about the math, unserious about everything else. We aim for that ratio.
+
 ## Shannon in Action
 
 <p align="center">
