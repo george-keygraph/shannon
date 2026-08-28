@@ -68,11 +68,7 @@ Shannon closes that gap by providing on-demand, automated penetration testing th
 
 ### Why is it called Shannon?
 
-Claude Shannon founded information theory in 1948, and a year later gave cryptography its first rigorous mathematical footing in "Communication Theory of Secrecy Systems." He is the reason information can be measured at all, and the reason security became something you could prove rather than assert.
-
-One of his ideas sits directly underneath this project. Shannon's maxim says to design a system on the assumption that your adversary already knows exactly how it works. Security has to live in the secret, never in the obscurity of the mechanism. That is the argument for open-source security tooling, made decades before anyone published a repository, and it is why the agent that attacks your application is one you can read line by line.
-
-He also built Theseus, a mechanical mouse that taught itself the path through a maze in 1950 and is now cited as one of the first demonstrations of machine learning. And he kept a box on his desk whose only function was to reach out, switch itself off, and retract. Rigorous about the math, unserious about everything else. We aim for that ratio.
+Claude Shannon founded information theory in 1948 and gave cryptography its first rigorous math a year later, so he is roughly the reason security is something you prove rather than assert. His maxim says to design every system on the assumption that the attacker already knows exactly how it works. That is the entire argument for open-source security tooling, made decades before anyone could star a repo, and we took it literally: we open-sourced the attacker. He also kept a box on his desk whose only function was to reach out and switch itself off. Rigorous about the math, unserious about everything else. We aim for that ratio.
 
 ## Shannon in Action
 
